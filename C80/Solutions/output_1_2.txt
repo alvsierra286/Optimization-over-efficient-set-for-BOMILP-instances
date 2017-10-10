@@ -1,0 +1,9 @@
+Running_Time: 46.8  #IPs: 2019
+Time_Finder_Point: 0  #IPs_Finder_Point: 0 Number_Finder_Point: 0
+Time_Weighted_Sum: 18.58  #IPs_Weighted_Sum: 1026 Number_Weighted_Sum: 96
+Time_Line_Detector: 1.45  #IPs_Line_Detector: 60 Number_Line_Detector: 561
+Time_Finder_Line: 12.77  #IPs_Finder_Line: 493 Number_Finder_Line: 493
+Time_Finder_Triangle: 2.6  #IPs_Finder_Triangle: 78 Number_Finder_Triangle: 78
+Time_UB_Finder_Triangle: 11.37  #IPs_UB_Finder_Triangle: 358 Number_UB_Finder_Triangle: 67
+GLB= -474.022 GUB= -474.022 f(x)= -474.022
+Z1= -591.964 Z2= -1204.88
