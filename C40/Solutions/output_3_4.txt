@@ -1,0 +1,9 @@
+Running_Time: 2.55  #IPs: 334
+Time_Finder_Point: 0  #IPs_Finder_Point: 0 Number_Finder_Point: 0
+Time_Weighted_Sum: 0.83  #IPs_Weighted_Sum: 140 Number_Weighted_Sum: 18
+Time_Line_Detector: 0.01  #IPs_Line_Detector: 3 Number_Line_Detector: 79
+Time_Finder_Line: 0.49  #IPs_Finder_Line: 59 Number_Finder_Line: 59
+Time_Finder_Triangle: 0.22  #IPs_Finder_Triangle: 20 Number_Finder_Triangle: 20
+Time_UB_Finder_Triangle: 1  #IPs_UB_Finder_Triangle: 108 Number_UB_Finder_Triangle: 17
+GLB= -391.445 GUB= -391.445 f(x)= -391.445
+Z1= -669.079 Z2= -264.103
