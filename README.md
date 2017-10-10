@@ -8,9 +8,13 @@ From each BOMILP, we generate 10 different instances. The only difference betwee
 
 ## Input File
 Next is shown the format of the bi-objective mixed integer linear instances provided in this repository.
+
 Problem example:
 
 ![Images](/Images/Example.jpg)
+
+Linear function to be optimized over the efficient set:
+
 ![Images](/Images/Obj_fun_example.jpg)
 
 Description of the input file:
