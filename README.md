@@ -21,4 +21,6 @@ Description of the input file:
 
 ![Images](/Images/Input%20File.jpg)
 
-All numbers must be separated by a single space or a tab space.
+Every instance is organized such that the first variables in the x vector are the continous variables, then the integer and finally the binary variables. All numbers are separated by a single space, a tab space, or a line ending.
+
+Note that in example the first line is horizontal while in the instances is vertical (It does not imply any change).
